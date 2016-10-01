@@ -1,0 +1,1 @@
+create table players (week text , year text , gid text , name text , position text , team text , location text , opponent text , value real ,salary real)
